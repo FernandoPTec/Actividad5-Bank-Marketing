@@ -35,3 +35,7 @@
 ## Verificación de Git
 - Repositorio clonado y conexión remota verificada.
 - Script de limpieza ejecutado correctamente.
+
+## Verificación de Git
+- Repositorio clonado y conexión remota verificada.
+- Script de limpieza ejecutado correctamente.
