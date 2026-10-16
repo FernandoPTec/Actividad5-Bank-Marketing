@@ -31,3 +31,7 @@
 - Ajuste de hiperparámetros.
 - Registro de experimentos en MLflow.
 - Evaluación comparativa.
+
+## Verificación de Git
+- Repositorio clonado y conexión remota verificada.
+- Script de limpieza ejecutado correctamente.
