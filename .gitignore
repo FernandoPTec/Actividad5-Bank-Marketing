@@ -1,0 +1,15 @@
+
+# Archivos temporales de Python
+__pycache__/
+*.pyc
+
+# Archivos temporales de Jupyter
+.ipynb_checkpoints/
+
+# Experimentos locales de MLflow
+mlruns/
+mlartifacts/
+mlflow.db
+
+# Variables de entorno
+.env
