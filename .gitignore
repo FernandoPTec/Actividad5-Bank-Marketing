@@ -13,3 +13,6 @@ mlflow.db
 
 # Variables de entorno
 .env
+
+# Modelos serializados locales
+modelos/
