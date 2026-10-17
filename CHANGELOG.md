@@ -39,3 +39,26 @@
 ## Verificación de Git
 - Repositorio clonado y conexión remota verificada.
 - Script de limpieza ejecutado correctamente.
+
+
+## Versión 1.0.0 - Entrenamiento y evaluación final
+
+### Incorporado
+- Entrenamiento reproducible mediante train.py.
+- Regresión logística y random forest.
+- Optimización con GridSearchCV y cinco folds.
+- Evaluación final con cinco métricas.
+- Comparación estadística mediante McNemar.
+- Registro de experimentos y modelos en MLflow.
+- Almacenamiento de experimentos mediante SQLite.
+
+### Resultados
+- Regresión logística: F1 = 0.3732.
+- Random forest: F1 = 0.4810.
+- Random forest: ROC-AUC = 0.8031.
+- Modelo seleccionado: random forest.
+
+### Verificación
+- Script train.py ejecutado independientemente.
+- Código de salida: 0.
+- Resultados reproducidos correctamente.
